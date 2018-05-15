@@ -10,12 +10,11 @@ html {
 * {
   text-decoration: none;
   list-style-type: none;
-  background-color: #d05c2e;
   font-family: Merriweather;
+  background-color: #d05c2e;
 }
 
 header {
-  background-color: #d05c2e;
   color: #fff;
 }
 
@@ -63,4 +62,12 @@ li:hover {
 
 a {
   display: block;
+}
+
+li {
+  background-color: #d05c2e;
+}
+
+h1 {
+  background-color: #d05c2e;
 }
